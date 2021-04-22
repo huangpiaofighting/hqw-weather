@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.hqw_index_xzQJ5 {
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0px;
+  margin: 0;
+  padding: 0;
+  z-index: 999;
+  background-color: rgba(0, 0, 0, 0.62);
+}
+.hqw_index_pOE-C {
+  pointer-events: none;
+  display: none;
+}
+
+
+/*# sourceMappingURL=index.css.map*/
